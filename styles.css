@@ -1,0 +1,16 @@
+body {
+    background-color: #f0f0f0; /* Couleur d'arrière-plan */
+    color: #333333; /* Couleur du texte */
+  }
+  span{
+    color: red;
+    } 
+  p{
+    background-color:yellow
+      
+   }
+
+  div {
+      background-color: rgb(0, 255, 238);
+
+        }
